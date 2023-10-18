@@ -29,7 +29,7 @@ Feel free to explore my projects to learn more about what I'm working on!
 
 ## Follow Me
 
-- [Personal Website]([link_to_your_website_or_portfolio](https://leodessertenne.github.io/Portfolio/))
+- [Personal Website](https://leodessertenne.github.io/Portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/leo-dessertenne-3a571425b/)
 
 Please feel free to reach out if you have any questions or want to discuss interesting projects. Thanks for visiting my profile!
