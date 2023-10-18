@@ -13,13 +13,13 @@ Hi, I'm [Léo](https://leodessertenne.github.io/Portfolio/), student in computer
 - **Programming Languages:** Java, Python, PHP, SQL, Next.js, C
 - **Tools:** Git, Spring Tools, Eclipse, Visual Studio Code
 - **Web Technologies:** HTML, CSS, React.js
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, Postgresql
 - **Others:** Algorithms, design
 
 ## Projects
 
 - [Project Sevilla](link_to_project) - Brief description of the project.
-- [](link_to_project) - Brief description of the project.
+- [Other](link_to_project) - Brief description of the project.
 
 Feel free to explore my projects to learn more about what I'm working on!
 
