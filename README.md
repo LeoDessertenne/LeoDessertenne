@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi, I'm [Léo](https://leodessertenne.github.io/Portfolio/), student in computer science. I am currently a student and developer.
+Hi, I'm [Léo](https://etudiant.u-pem.fr/~leo.dessertenne/portfolio/Portfolio/), student in computer science. I am currently a student and developer.
 
 ## About Me
 
@@ -29,7 +29,7 @@ Feel free to explore my projects to learn more about what I'm working on!
 
 ## Follow Me
 
-- [Personal Website](https://leodessertenne.github.io/Portfolio/)
+- [Personal Website]([https://leodessertenne.github.io/Portfolio/](https://etudiant.u-pem.fr/~leo.dessertenne/portfolio/Portfolio/))
 - [LinkedIn](https://www.linkedin.com/in/leo-dessertenne-3a571425b/)
 
 Please feel free to reach out if you have any questions or want to discuss interesting projects. Thanks for visiting my profile!
