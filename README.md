@@ -4,9 +4,8 @@ Hi, I'm [Léo](https://perso-etudiant.u-pem.fr/~leo.dessertenne/Portfolio/), stu
 
 ## About Me
 
-- 🌱 I'm currently learning [Next.js]
-- 💼 I'm working on [...]
-- 📫 How to reach me: [pro.leo.dessertenne@gmail.com]
+-  I'm currently learning Next.js & Bootsrap
+-  How to reach me: [pro.leo.dessertenne@gmail.com]
 
 ## Languages and Tools
 
