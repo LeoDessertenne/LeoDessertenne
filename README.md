@@ -11,15 +11,14 @@ Hi, I'm [Léo](https://etudiant.u-pem.fr/~leo.dessertenne/portfolio/Portfolio/),
 ## Languages and Tools
 
 - **Programming Languages:** Java, Python, PHP, SQL, Next.js, C
-- **Tools:** Git, Spring Tools, Eclipse, Visual Studio Code
-- **Web Technologies:** HTML, CSS, React.js
+- **Tools:** Git, Spring Tools, Eclipse, Visual Studio Code, IntelliJ
+- **Web Technologies:** HTML, CSS, React.js, Bootstrap
 - **Databases:** MySQL, Postgresql
 - **Others:** Algorithms, design
 
 ## Projects
 
-- [Project Sevilla](link_to_project) - Brief description of the project.
-- [Other](link_to_project) - Brief description of the project.
+- [Project Sevilla](https://perso-etudiant.u-pem.fr/~leo.dessertenne/Project-Sevilla/) - The aim of this first-year BUT Informatique project, carried out in groups of 5, was to create a website to promote the culture of the city of Seville. The project was carried out over a period of 6 months.
 
 Feel free to explore my projects to learn more about what I'm working on!
 
